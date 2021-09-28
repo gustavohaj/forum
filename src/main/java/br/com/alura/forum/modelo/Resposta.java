@@ -1,4 +1,4 @@
-// $id$
+//--$Id$
 package br.com.alura.forum.modelo;
 
 import javax.persistence.*;
